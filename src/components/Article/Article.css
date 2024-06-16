@@ -1,0 +1,22 @@
+#article{
+    display: flex;
+    gap: 1rem;
+}
+
+#article img{
+    width: 250px;
+    height: 250px;
+}
+
+#article .article_infos h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+#article .article_infos h3{
+    font-size: 20px;
+    font-weight: regular;
+    margin-bottom: 1rem;
+    color: gray;
+}
